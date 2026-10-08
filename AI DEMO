@@ -1,4 +1,3 @@
-# AI-demo
 print("🤖 My AI: Hello! Main tumhara AI assistant hoon.")
 print("Type 'bye' to exit.\n")
 while True:
@@ -20,3 +19,4 @@ while True:
 
   else:
         print("🤖 My AI: Sorry, mujhe ye samajh nahi aaya.")
+
